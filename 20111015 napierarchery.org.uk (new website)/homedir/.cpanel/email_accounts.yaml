@@ -1,0 +1,9 @@
+--- 
+__version: '2.1'
+napierarchery.org.uk: 
+  account_count: 0
+  accounts: {}
+
+  disk_mtime: '1314282391'
+  passwd_mtime: '1314291874'
+  quota_mtime: '1314291874'

@@ -1,0 +1,31 @@
+; cPanel first:11.30.2.1 (update_time):1313576470 Cpanel::ZoneFile::VERSION:1.3 hostname:webhost2.burstfire.net latest:11.30.2.1
+; Zone file for napierarchery.org.uk
+$TTL 14400
+napierarchery.org.uk.	86400	IN	SOA	ns0.burstfire.net.	ops-no-ticketer.burstfire.net.	(
+						2011081703 ;Serial Number
+						86400 ;refresh
+						7200 ;retry
+						3600000 ;expire
+						86400 ;minimum
+	)
+
+napierarchery.org.uk.	86400	IN	NS	ns0.burstfire.net.
+napierarchery.org.uk.	86400	IN	NS	ns1.burstfire.net.
+napierarchery.org.uk.	86400	IN	NS	ns2.burstfire.net.
+napierarchery.org.uk.	86400	IN	NS	ns3.burstfire.net.
+
+
+napierarchery.org.uk.	14400	IN	A	82.136.27.2
+
+localhost	14400	IN	A	127.0.0.1
+
+napierarchery.org.uk.	14400	IN	MX	0	spamdrop1.burstfire.net.
+
+mail	14400	IN	CNAME	napierarchery.org.uk.
+www	14400	IN	CNAME	napierarchery.org.uk.
+ftp	14400	IN	A	82.136.27.2
+cpanel	14400	IN	A	82.136.27.2
+whm	14400	IN	A	82.136.27.2
+webmail	14400	IN	A	82.136.27.2
+webdisk	14400	IN	A	82.136.27.2
+

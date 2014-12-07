@@ -1,0 +1,593 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201108 will be lost/reset.
+# Last config file used to build this data file was /home/virtual/napierar/tmp/awstats/awstats.napierarchery.org.uk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2022                
+POS_TIME 2704                
+POS_VISITOR 13402               
+POS_DAY 16183               
+POS_DOMAIN 3480                
+POS_LOGIN 3872                
+POS_ROBOT 4027                
+POS_WORMS 4381                
+POS_EMAILSENDER 4512                
+POS_EMAILRECEIVER 4655                
+POS_SESSION 16431               
+POS_SIDER 16637               
+POS_FILETYPES 4790                
+POS_DOWNLOADS 5057                
+POS_OS 7052                
+POS_BROWSER 7183                
+POS_SCREENSIZE 7620                
+POS_UNKNOWNREFERER 7694                
+POS_UNKNOWNREFERERBROWSER 8159                
+POS_ORIGIN 8470                
+POS_SEREFERRALS 8611                
+POS_PAGEREFS 8766                
+POS_SEARCHWORDS 9612                
+POS_KEYWORDS 9784                
+POS_MISC 2368                
+POS_ERRORS 9865                
+POS_CLUSTER 3728                
+POS_SIDER_404 9976                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110901001327 126 27345 14243548764018
+FirstTime 20110825152903
+LastTime 20110831205501
+LastUpdate 20110901131247 126 0 125 0 0
+TotalVisits 111                 
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 75                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 15 205949
+1 2 2 32087 7 19 583816
+2 0 0 0 2 7 117331
+3 30 52 659404 48 61 968164
+4 15 83 970240 6 12 36666
+5 2 10 169619 3 12 747215
+6 2 6 148474 2 5 408120
+7 4 26 420485 2 3 21794
+8 2 6 148609 5 8 33280
+9 18 81 814310 5 18 247901
+10 47 146 2269417 2 8 142760
+11 59 163 2169914 15 25 216763
+12 58 258 2551812 4 19 208032
+13 34 117 1640885 4 18 284901
+14 9 50 630334 5 12 561143
+15 106 302 3997702 19 27 34875
+16 168 315 8167062 21 32 49586
+17 218 620 11548092 61 71 354411
+18 76 172 2745751 21 44 942490
+19 21 78 777596 9 22 675484
+20 25 71 1270808 4 17 895609
+21 11 80 979278 5 17 28160
+22 54 177 2052140 15 34 290996
+23 0 0 0 1 14 63603
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+fr 698 1827 28452059
+gb 140 508 6822548
+us 37 92 2527959
+eu 32 150 1898217
+cn 27 111 2878473
+de 18 75 718768
+pl 4 20 310654
+ch 2 15 253727
+gu 2 15 257834
+ua 1 1 16132
+jp 0 1 27648
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+slurp 109 5976146 20110831222730 0
+googlebot 55 1214790 20110831232216 0
+bot[\s_+:,\.\;\/\\-] 8 819741 20110831202343 0
+crawl 3 47949 20110830171437 0
+spider 2 31994 20110829225229 0
+no_user_agent 1 22016 20110829231643 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 411 5478486 0 0
+png 759 1459690 0 0
+pdf 8 2713257 0 0
+xsl 2 3902 0 0
+php 291 11371253 0 0
+html 667 14396451 0 0
+jpg 28 242086 0 0
+js 562 8293133 0 0
+xml 3 3921 0 0
+xls 4 136192 0 0
+gif 80 65648 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 45
+/documents/NUAC_Constitution_2011-04-19.pdf 4 0 305372
+/results/2005_03_12_SUSF_IC.xls 4 0 133120
+/results/2009_11_22_SUS_LM.xls 3 0 82944
+/results/2009_02_14_SUS_LM.xls 3 0 81408
+/results/2008_03_15_SUS_IC.xls 2 0 102400
+/results/2006_03_04_BUSA_IC.pdf 2 0 501498
+/documents/reference.pdf 2 0 2037060
+/results/2010_02_13_SUS_LM.xls 2 0 157696
+/results/2005_02_26_BUSA_IC.xls 2 0 331776
+/results/2008_12_06_SUS_NC.xls 2 0 61440
+/results/2010_02_13_BUTC.pdf 2 0 712444
+/results/2007_12_01_SUS_NC.xls 2 0 50176
+/results/2008_02_16_SUS_LM.xls 2 0 56320
+/results/2006_06_17_BUSA_OC_busa.pdf 2 0 418158
+/results/2007_03_17_BUSA_IC_busa.pdf 2 0 245308
+/results/2008_10_31_Friendly.xls 2 0 51200
+/results/2006_12_02_SUS_NC.xls 2 0 71680
+/documents/Napier%20Scoresheet.xls 2 0 44032
+/sitemap.xml.gz 2 0 1426
+/results/2005_06_18_BUSA_OC.xls 2 0 1093632
+/documents/Membership%20Form.doc 1 0 26624
+/results/2006_03_11_BUTC.pdf 1 0 495095
+/documents/NUAC_Constitution_2011-04.pdf 1 0 76343
+/results/2006_06_17_BUSA_OC_trad.pdf 1 0 246870
+/results/2005_12_03_SUS_NC.xls 1 0 30208
+/results/2007_01_27_SUS_LM.xls 1 0 19968
+/results/2009_01_30_Friendly.xls 1 0 20992
+/documents/novice_competition_guide.pdf 1 0 90946
+/results/2009_05_02_SUS_OC.xls 1 0 50176
+/results/2008_02_23_SUS_H2H.xls 1 0 40960
+/documents/2010_SUS_OC_entry_form.doc 1 0 76288
+/results/2007_03_03_BUTC.pdf 1 0 266562
+/documents/Constitution_2009_04_07.pdf 1 0 179843
+/results/2006_02_25_SUS_LM.xls 1 0 19968
+/results/2007_03_24_SUS_IC.xls 1 0 38912
+/results/2009_02_21_SUS_H2H.xls 1 0 46080
+/results/2010_02_06_SUS_NC.xls 1 0 88064
+/results/2010_05_01_SUS_OC.xls 1 0 53760
+/results/2006_12_09_SUS_LM.xls 1 0 34304
+/results/2007_10_26_Friendly.xls 1 0 29696
+/results/2006_02_11_SUS_LM.xls 1 0 22016
+/results/2009_03_07_BUCS_IC.pdf 1 0 368314
+/wp-content/plugins/google-sitemap-generator/sitemap.xsl 1 0 3902
+/results/2006_11_18_SUS_LM.xls 1 0 20992
+/results/2008_03_01_BUSA_IC.pdf 1 0 164744
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 9
+linuxandroid 50
+winlong 88
+winxp 259
+linux 90
+os/2 19
+ios 3
+win7 474
+macosx 1778
+Unknown 54
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 27
+msie6.0 117
+firefox5.0 33
+android 50
+firefox7.0 8
+chrome5.0.375.99 6
+chrome14.0.826.0 16
+firefox4.0 23
+lynx 1
+firefox2.0.0.12 5
+chrome13.0.782.215 110
+minefield 8
+opera9.80 52
+safari5.0.2 188
+msie8.0 110
+iphone 44
+mozilla 24
+firefox6.0.1 69
+msie7.0 2
+chrome14.0.835.35 16
+seamonkey 12
+safari5.1 1528
+firefox6.0 303
+chrome14.0.835.109 20
+msie9.0 3
+chrome11.0.696 15
+Unknown 37
+safari 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress/3.2.1;_http://www.napierarchery.org.uk 20110831165931
+Lynx/2.8.5rel.1_libwww-FM/2.14_SSL-MM/1.4.1_OpenSSL/0.9.8e-fips-rhel5 20110828115059
+wp-iphone/2.8.3 20110827225123
+Browsershots 20110828191048
+Goldfire_Server 20110830165740
+Google-Site-Verification/1.0 20110830172332
+Mozilla/5.0_(compatible;_Dow_Jones_Searchbot) 20110831030831
+Apple-PubSub/65.28 20110825171920
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Goldfire_Server 20110830165740
+WordPress/3.2.1;_http://www.napierarchery.org.uk 20110831165931
+Google-Site-Verification/1.0 20110830172332
+wp-ios/2.8.3 20110827225120
+Browsershots 20110828191048
+Apple-PubSub/65.28 20110825171920
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 205 250
+From1 0 0
+From2 1 1
+From3 40 66
+From4 715 2498
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://www.facebook.com/l.php 20 20
+http://webhost2.burstfire.net/~napierar/ 11 37
+http://www.ubound.info/Top/Reference/Education/Colleges_and_Universities/Europe/United_Kingdom/Scotland/Edinburgh_Napier_University 3 3
+http://www.facebook.com/l/yAQCFoIUTAQB7Fz5tDSb2CpTmjeRg5zaqO1CvCSOVFHNbNw/www.napierarchery.org.uk/ 1 1
+http://82.136.27.2/~napierar/ 1 1
+http://webhost2.burstfire.net/~napierar/wp-admin/options-general.php 1 1
+http://www.archerygb.org/ArcheryGB/index.cfm/club-finder/ 1 1
+http://www.facebook.com/l/nAQB5eQDZAQAjWvtAwECvDwZslPTTrDj1Uh6uap59Giud_w/www.napierarchery.org.uk 1 1
+http://www.facebook.com/l/MAQCSSUAcAQBpcxumq71AKdmu1K8LpfTnaDulSCVX2EQUMg/www.napierarchery.org.uk 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+napier+university 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+university 1
+napier 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 46 403
+301 25 2211
+404 252 2649
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 108
+/public_html/wp-content/uploads/2011/08/Burstfire_w150.gif 1 http://www.napierarchery.org.uk/
+/ 3 http://www.napierarchery.org.uk/
+/images/thumb2.jpg 4 -
+/robots.txt 55 -
+/gallery/thumbs/71.jpg 1 -
+/gallery/thumbs/113.jpg 1 -
+/gallery/thumbs/72.jpg 1 -
+/viewgallery.php 16 -
+/gallery/thumbs/59.jpg 1 -
+/movies.php 7 http://www.napierarchery.org.uk/movies.php
+/gallery/95.jpg 1 -
+/gallery/thumbs/131.jpg 1 -
+/membersselect.php 5 -
+/chicken.php 2 -
+/images/NSA_w150_2.gif 3 -
+/gallery/57.jpg 1 -
+/gallery/thumbs/119.jpg 1 -
+/results.php 3 -
+/results/2009_02_28_BUTC.pdf%20target= 2 -
+/gallery/thumbs/70.jpg 1 -
+/gallery/73.jpg 1 -
+/gallery/11.jpg 1 -
+/gallery/thumbs/160.jpg 1 -
+/results/2010_10_29_practice.php 4 http://www.napierarchery.org.uk/
+/wp-include/ 1 -
+/gallery/thumbs/97.jpg 1 -
+/gallery/thumbs/93.jpg 1 -
+/gallery/173.jpg 1 -
+/gallery/thumbs/140.jpg 1 -
+/competitions.php 4 http://www.napierarchery.org.uk/competitions.php
+/results/2006_12_02_SUS_NC.xls&s=metacrawler&hash=2BFE7E4061893B71E9D1C6149121B6B9 1 http://www.napierarchery.org.uk/results/2006_12_02_SUS_NC.xls&s=metacrawler&hash=2BFE7E4061893B71E9D1C6149121B6B9
+/images/Burstfire_w150.gif 4 -
+/gallery/33.jpg 1 -
+/gallery/thumbs/66.jpg 1 -
+/gallery.php 8 -
+/gallery/thumbs/162.jpg 1 -
+/gallery/103.jpg 1 -
+/contact.php 5 -
+/gallery/thumbs/39.jpg 1 -
+/gallery/thumbs/141.jpg 1 -
+/gallery/62.jpg 1 -
+/images/menulogo_20.jpg 2 -
+/gallery/thumbs/56.jpg 1 -
+/gallery/thumbs/104.jpg 1 -
+/images/goldbars.jpg 1 -
+/gallery/thumbs/161.jpg 1 -
+/gallery/170.jpg 1 -
+/members06.php 1 -
+/images/globe.jpg 1 -
+/gallery/133.jpg 1 -
+/gallery/thumbs/184.jpg 1 -
+/joinus.php 3 http://www.napierarchery.org.uk/joinus.php
+/gallery/thumbs/183.jpg 1 -
+/g,Z 1 -
+/links.php 4 -
+/gallery/thumbs/69.jpg 1 -
+/gallery/thumbs/10.jpg 1 -
+/gallery/130.jpg 1 -
+/sponsors.php 6 -
+/gallery/160.jpg 1 -
+/gallery/thumbs/143.jpg 1 -
+/gallery/7.jpg 1 http://images.yandex.ru/yandsearch
+/gallery/105.jpg 1 -
+/gallery/thumbs/156.jpg 1 -
+/gallery/thumbs/78.jpg 1 -
+/gallery/thumbs/60.jpg 1 -
+/gallery/thumbs/173.jpg 1 -
+/documents/Membership 1 -
+/g, 1 -
+/gallery/18.jpg 1 -
+/usefuldocs.php 2 -
+/members05.php 2 -
+/gallery/thumbs/1.jpg 1 -
+/gallery/118.jpg 1 -
+/gallery/151.jpg 1 -
+/busa.php 3 -
+/gallery/thumbs/64.jpg 1 -
+/gallery/thumbs/89.jpg 1 -
+/gallery/148.jpg 1 -
+/gallery/thumbs/175.jpg 1 -
+/gallery/thumbs/123.jpg 1 -
+/wp-admn 1 -
+/gallery/12.jpg 1 -
+/archery.css 5 http://www.napierarchery.org.uk/joinus.php
+/gallery/thumbs/106.jpg 1 -
+/gallery/thumbs/142.jpg 1 -
+/gallery/thumbs/144.jpg 1 -
+/gallery/thumbs/94.jpg 1 -
+/gallery/thumbs/7.jpg 1 http://images.yandex.ru/yandsearch
+/gallery/thumbs/12.jpg 1 -
+/gallery/thumbs/147.jpg 1 -
+/archives.php 5 http://www.napierarchery.org.uk/archives.php
+/gallery/thumbs/155.jpg 1 -
+/admin 1 -
+/gallery/156.jpg 1 -
+/gallery/184.jpg 1 -
+/wp-adlin 1 -
+/documents/Napier 1 -
+/gallery/106.jpg 1 -
+/records.php 8 -
+/gallery/132.jpg 1 -
+/gallery/43.jpg 1 -
+/gallery/99.jpg 1 -
+/gallery/169.jpg 1 -
+/gallery/thumbs/171.jpg 1 -
+/members04.php 1 -
+/images/topbannerleft.gif 2 http://www.napierarchery.org.uk/
+/results/2005_04_25_practice.php 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 75
+89.156.198.52 653 1696 26706248 20110831050501
+84.12.245.90 39 190 1589299 20110831170118
+193.58.247.50 32 47 716154 20110825171032
+194.105.165.146 20 36 682621 20110830155131
+92.25.197.34 18 34 640090 20110828102907
+85.114.137.37 18 75 718768 20110828192701
+205.203.134.197 17 24 489556 20110831030831
+129.215.5.255 16 78 662686 20110831125455
+82.136.27.2 12 12 0 20110831165931
+94.172.4.238 10 25 457608 20110829161852
+2.123.49.126 8 23 411233 20110827200945
+146.176.60.71 8 23 402962 20110831102832
+114.80.93.51 6 6 96540 20110828015405
+82.236.187.107 6 33 350385 20110830142231
+58.61.164.139 5 25 662343 20110831101541
+86.151.3.9 5 25 327595 20110830121842
+65.36.72.237 4 24 309152 20110825223911
+94.14.67.35 4 24 307048 20110830133426
+128.39.17.20 4 19 309203 20110830165800
+92.235.180.192 4 18 307000 20110826223142
+83.7.13.69 4 20 310654 20110830205648
+82.41.180.207 4 32 527676 20110830141639
+58.61.164.40 4 20 529908 20110831173232
+119.147.6.60 4 20 529908 20110831121810
+92.25.196.115 4 18 296936 20110830223532
+178.95.33.24 1 1 16132 20110831124717
+74.125.42.86 1 3 122469 20110826110735
+209.85.224.89 1 1 15955 20110826161934
+208.80.194.37 1 1 16132 20110831035155
+209.85.224.97 0 1 762 
+80.40.134.103 1 9 231171 20110829093832
+80.40.134.104 3 9 246300 20110831170001
+209.85.224.95 1 1 26918 20110826161936
+124.115.1.8 1 5 132477 20110829120013
+74.125.76.80 1 1 15997 20110830171825
+209.85.224.91 0 2 14118 
+80.239.242.175 2 15 261662 20110826040334
+80.13.124.136 2 16 263817 20110828103906
+188.221.73.246 2 16 263859 20110830155041
+74.125.42.87 0 1 75870 
+74.125.42.82 0 1 3238 
+74.125.42.85 0 1 762 
+74.125.42.84 1 4 33589 20110826110735
+209.85.224.82 0 2 6395 
+209.85.224.94 0 1 844 
+206.197.217.20 0 1 1018530 
+74.125.78.86 1 1 53 20110830172332
+209.85.224.88 0 1 2155 
+208.80.194.34 1 1 16132 20110830080852
+114.80.93.71 3 15 397389 20110830132412
+202.128.84.56 2 15 257834 20110830120530
+78.250.127.106 3 20 161770 20110829173316
+38.229.70.44 1 1 15955 20110828115059
+208.80.194.29 2 2 32087 20110831011727
+150.70.64.198 0 1 27648 
+208.80.194.35 1 1 15955 20110829040114
+124.115.1.7 2 10 264954 20110831205501
+74.125.42.83 0 2 2999 
+58.61.164.140 2 10 264954 20110831104108
+92.235.216.73 2 15 261704 20110830133728
+69.162.69.14 1 1 15955 20110828191048
+70.166.22.210 3 3 47949 20110831123130
+94.9.119.126 2 15 146905 20110830183914
+207.46.195.205 0 1 27136 
+209.85.224.86 0 1 75870 
+209.85.224.90 0 1 308 
+74.125.42.80 0 1 13780 
+62.24.181.134 0 2 92149 
+82.227.207.55 2 15 253685 20110826210947
+146.176.120.13 2 15 261704 20110830125734
+209.85.224.99 0 3 107122 
+209.85.224.85 0 1 3238 
+62.24.181.135 2 5 33354 20110830223552
+74.125.42.81 0 2 978 
+81.13.162.167 2 15 253727 20110830174335
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20110825 405 916 18728154 4
+20110826 43 195 2320201 15
+20110827 66 219 2379079 10
+20110828 90 258 3478901 12
+20110829 144 435 5264340 18
+20110830 143 543 8575483 35
+20110831 70 249 3417861 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 6
+0s-30s 85
+30s-2mn 5
+15mn-30mn 3
+2mn-5mn 4
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/ 640 13921906 97 94
+/wp-admin/load-scripts.php 49 1393087 0 1
+/wp-admin/post.php 36 2086970 0 0
+/wp-admin/themes.php 33 4482126 0 0
+/wp-admin/admin-ajax.php 30 5381 0 0
+/wp-admin/load-styles.php 23 395675 0 0
+/wp-admin/index-extra.php 16 23020 0 0
+/wp-admin/options-general.php 14 646734 0 0
+/wp-admin/ 13 460170 0 0
+/xmlrpc.php 13 82170 0 1
+/wp-cron.php 12 0 12 12
+/wp-login.php 10 42309 0 0
+/wp-admin/plugins.php 8 212191 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 7 653856 0 0
+/wp-admin/tools.php 5 83351 0 0
+/results/2010_10_29_practice.php 5 2914 0 0
+/google237aa8c1e6a28b17.html 5 265 1 1
+/results/2010_10_29_practice.html 4 2648 1 2
+/wp-admin/index.php 4 150498 0 0
+/wp-admin/theme-editor.php 4 362806 0 0
+/wp-admin/options-writing.php 3 65382 0 0
+/wp-admin/update.php 3 30696 0 0
+/sitemap.xml 2 2868 0 0
+/wp-admin/plugin-editor.php 2 151776 0 0
+/results/ 2 4440 0 0
+/wp-admin/users.php 1 22149 0 0
+/wp-admin/options-reading.php 1 18405 0 0
+/wp-includes/wlwmanifest.xml 1 1053 0 0
+/wp-admin/user-new.php 1 18066 0 0
+/wp-admin/plugin-install.php 2 109580 0 0
+/wp-includes/pluggable.php 1 0 0 0
+/wp-admin/options-permalink.php 1 18079 0 0
+/wp-includes/user.php 1 158 0 0
+/wp-admin/profile.php 1 20584 0 0
+/wp-admin/nav-menus.php 2 211279 0 0
+/documents/ 2 1082 0 0
+/wp-admin/edit.php 1 50953 0 0
+/wp-includes/ 1 5940 0 0
+/wp-admin/options-privacy.php 1 15234 0 0
+/wp-admin/update-core.php 1 15824 0 0
+END_SIDER

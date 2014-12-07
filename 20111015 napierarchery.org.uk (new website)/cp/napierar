@@ -1,0 +1,28 @@
+# cPanel -- If you edit this file directly you must run /usr/local/cpanel/scripts/updateuserdomains afterwards to rebuild the system caches. 
+# If you edit MAX_EMAIL_PER_HOUR or MAX_EMAIL_PER_HOUR-[domain] you must run /usr/local/cpanel/scripts/update_email_limits
+BWLIMIT=unlimited
+CONTACTEMAIL=julescoynel@gmail.com
+CONTACTEMAIL2=napierarchery@gmail.com
+DBOWNER=napierar
+DEMO=0
+DNS=napierarchery.org.uk
+FEATURELIST=default
+HASCGI=1
+IP=82.136.27.2
+LOCALE=en
+MAXADDON=0
+MAXFTP=1
+MAXLST=0
+MAXPARK=0
+MAXPOP=15
+MAXSQL=1
+MAXSUB=0
+MTIME=1316209393
+MXCHECK-napierarchery.org.uk=0
+OWNER=root
+PLAN=default
+RS=x3
+STARTDATE=1313575993
+USER=napierar
+notify_disk_limit=1
+notify_email_quota_limit=1

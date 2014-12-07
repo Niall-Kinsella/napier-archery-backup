@@ -1,0 +1,13 @@
+--- 
+MYSQL: 
+  dbs: 
+    napierar_webdb: 82.136.27.2
+  dbusers: 
+    napierar_web: 
+      dbs: 
+        napierar_webdb: 82.136.27.2
+      server: 82.136.27.2
+  noprefix: {}
+
+  owner: napierar
+  server: 82.136.27.2

@@ -1,0 +1,1320 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201110 will be lost/reset.
+# Last config file used to build this data file was /home/virtual/napierar/tmp/awstats/awstats.napierarchery.org.uk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2022                
+POS_TIME 2708                
+POS_VISITOR 26845               
+POS_DAY 36997               
+POS_DOMAIN 3613                
+POS_LOGIN 4089                
+POS_ROBOT 4244                
+POS_WORMS 4895                
+POS_EMAILSENDER 5026                
+POS_EMAILRECEIVER 5169                
+POS_SESSION 37468               
+POS_SIDER 37678               
+POS_FILETYPES 5304                
+POS_DOWNLOADS 5589                
+POS_OS 8757                
+POS_BROWSER 8969                
+POS_SCREENSIZE 10046               
+POS_UNKNOWNREFERER 10120               
+POS_UNKNOWNREFERERBROWSER 11101               
+POS_ORIGIN 11769               
+POS_SEREFERRALS 11913               
+POS_PAGEREFS 12109               
+POS_SEARCHWORDS 12943               
+POS_KEYWORDS 13680               
+POS_MISC 2371                
+POS_ERRORS 14100               
+POS_CLUSTER 3945                
+POS_SIDER_404 14226               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20111015133433 9315 2245867 14683655751636
+FirstTime 20111001002112
+LastTime 20111015133257
+LastUpdate 20111015133730 510 0 510 0 0
+TotalVisits 631                 
+TotalUnique 226                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 257                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 63 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 48 180 2761758 35 85 1222429
+1 37 126 1529350 41 108 1721440
+2 35 113 968404 48 118 1778527
+3 47 62 881127 139 192 1888399
+4 11 12 197422 80 146 2612359
+5 16 43 814545 61 122 2439260
+6 15 15 153211 58 177 6070817
+7 40 103 1464100 76 133 4675742
+8 54 199 6748743 64 131 1486051
+9 29 84 1458677 68 122 2006144
+10 55 156 2533765 62 121 2986631
+11 66 217 3495909 70 132 2317994
+12 112 443 6200705 70 124 2252318
+13 141 521 9411150 66 151 4532909
+14 304 941 13821031 75 144 1845955
+15 133 439 6842845 48 108 1511848
+16 120 390 8958936 54 130 1512424
+17 106 400 6252028 52 112 1603379
+18 111 380 5071342 37 92 1300810
+19 150 400 6411018 52 101 1116330
+20 46 152 2466086 29 94 1380441
+21 96 286 6712032 35 96 1119386
+22 100 284 4003104 62 116 1474993
+23 28 97 1345497 43 109 1685656
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+gb 1090 4071 63382092
+eu 384 1306 21810035
+us 341 440 6596140
+cz 25 40 842454
+cn 18 84 2245292
+ua 15 31 739241
+de 5 6 474532
+ru 4 11 324187
+lv 4 4 120226
+lt 3 15 263819
+ro 3 3 66352
+md 2 2 68344
+nl 2 16 296345
+nz 2 9 268746
+it 1 1 24868
+in 1 1 34025
+jp 0 3 117760
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+slurp 893 26305580 20111015133433 33
+googlebot 288 5818177 20111015132633 31
+bot[\s_+:,\.\;\/\\-] 208 4679401 20111015061113 69
+spider 121 1893747 20111015102650 52
+unknown 30 720 20111013141131 30
+crawl 28 507348 20111013144513 6
+ia_archiver 24 243906 20111013183220 8
+[\s_+:,\.\;\/\\-]bot 17 336 20111015073504 14
+no_user_agent 12 419818 20111007185548 0
+robot 10 153914 20111014143724 4
+discovery 9 0 20111013165642 0
+msnbot 5 67276 20111013101413 2
+checker 1 0 20111012054315 0
+msnbot\-media 1 24 20111012234031 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 1002 15118284 0 0
+png 1520 8022583 0 0
+pdf 27 9403490 0 0
+xlsx 5 134878 0 0
+php 184 3262944 0 0
+html 922 27121461 0 0
+xml 2 2106 0 0
+js 1306 22715758 0 0
+Unknown 787 10760418 0 0
+xls 19 872960 0 0
+gif 269 259576 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 70
+/robots.txt 250 0 6000
+/_documents/NUAC_Constitution_2011-04-19.pdf 9 0 687087
+/_results/SUS%20LM%20Aberdeen%20StAndrews%20Napier%20collated.xls 8 0 319488
+/_results/2011_06_11_BUCS_OC.pdf 7 4 4090324
+/_results/Griftsmouth%20Results.xls 6 0 227328
+/_results/SUS%20OUTDOORS%202011%20RESULTS.pdf 6 0 410490
+/_results/2008_02_16_SUS_LM.xls 5 0 140800
+/_documents/NUAC_Membership_Form_2011-12.pdf 5 0 233130
+/_results/2008_02_09_SUS_LM.xls 5 0 122880
+/_results/2010_03_13_BUCS_IC.xls 5 0 693760
+/_results/2006_03_04_BUSA_IC.pdf 4 0 1002996
+/_documents/reference.pdf 4 36 5993154
+/_results/2010_02_13_SUS_LM.xls 4 0 315392
+/_results/2010_02_13_BUTC.pdf 4 0 1424888
+/_results/2005_02_26_BUSA_IC.xls 4 0 663552
+/_results/2010_02_06_SUS_NC.xls 4 0 352256
+/_results/2007_10_26_Friendly.xls 4 0 118784
+/_results/2006_05_06_SUS_OC.xls 4 0 129024
+/_documents/novice_competition_guide.pdf 4 0 363784
+/_results/2005_06_18_BUSA_OC.xls 4 0 2187264
+/_results/2011_03_05_BUCS_IC_Individual.pdf 4 0 478608
+/_results/2008_02_22_Friendly.xls 3 0 55296
+/_results/2009_03_21_SUS_IC.xls 3 0 121344
+/_results/2010_05_01_SUS_OC.xls 3 0 161280
+/_results/2008_12_06_SUS_NC.xls 3 0 92160
+/_results/2010_02_20_SUS_H2H.xls 3 0 133632
+/_results/2007_03_17_BUSA_IC_trad.pdf 3 0 465018
+/_results/2008_03_15_SUS_IC.xls 3 0 153600
+/_results/2009_11_22_SUS_LM.xls 3 0 82944
+/_results/2009_10_30_Friendly.xls 3 0 53760
+/_results/2009_03_14_SUS_LM.xls 3 0 84480
+/_results/2008_10_31_Friendly.xls 3 0 76800
+/_results/2009_02_15_SUS_LM.xls 3 0 81408
+/_results/2006_06_17_BUSA_OC_trad.pdf 3 0 740610
+/_results/2010_01_23_friendly.xls 3 0 53760
+/_results/2011_02_05_SUS_LM.xls 3 0 112128
+/_results/2011_02_19_BUTC.pdf 3 0 1657779
+/_results/2006_11_18_SUS_LM.xls 2 0 41984
+/_results/2006_06_17_BUSA_OC_busa.pdf 2 0 418158
+/_results/2009_05_02_SUS_OC.xls 2 0 100352
+/_results/2008_03_08_BUTC.pdf 2 0 356298
+/_results/2009_01_30_Friendly.xls 2 0 41984
+/_results/2005_12_03_SUS_NC.xls 2 0 60416
+/_results/2006_02_11_SUS_LM.xls 2 0 44032
+/_results/2006_12_09_SUS_LM.xls 2 0 68608
+/_results/2007_01_27_SUS_LM.xls 2 0 39936
+/_results/2008_06_21_BUSA_OC.pdf 2 0 712264
+/_documents/Napier%20Scoresheet.xls 2 0 44032
+/_results/2006_02_25_SUS_LM.xls 2 0 39936
+/_results/2008_02_23_SUS_H2H.xls 2 0 81920
+/_results/2007_03_03_BUTC.pdf 2 0 533124
+/_results/2009_02_14_SUS_LM.xls 2 0 54272
+/_results/2007_05_05_SUS_OC.xls 2 0 50176
+/_results/2006_03_11_BUTC.pdf 2 0 990190
+/_results/2006_12_02_SUS_NC.xls 2 0 71680
+/_results/2006_03_25_SUS_IC.xls 2 0 76800
+/_results/2007_11_24_SUS_LM.xls 2 0 43008
+/_results/2005_11_26_SUS_LM.xls 2 0 33792
+/_results/2008_03_01_BUSA_IC.pdf 2 0 329488
+/_results/2007_03_17_BUSA_IC_busa.pdf 2 0 245308
+/_results/2009_03_07_BUCS_IC.pdf 2 0 736628
+/_results/2005_04_16_SUSF_LM.xls 2 0 36864
+/_results/2009_02_21_SUS_H2H.xls 2 0 92160
+/_results/2007_12_01_SUS_NC.xls 2 0 50176
+/_results/2005_03_12_SUSF_IC.xls 2 0 66560
+/_results/2008_05_10_SUS_OC.xls 2 0 94208
+/_results/2007_03_24_SUS_IC.xls 2 0 77824
+/_results/2011_03_05_BUCS_IC_Team.pdf 2 0 146504
+/_results/2007_06_16_BUSA_OC.pdf 1 0 248863
+/_documents/Constitution_2009_04_07.pdf 1 0 179843
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 16
+linuxandroid 155
+winlong 519
+winxp 1005
+win2000 29
+win95 2
+winunknown 7
+win2003 9
+java 2
+winnt 6
+linuxubuntu 72
+win98 2
+linux 104
+win7 2774
+macosx 1173
+winme 6
+Unknown 218
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 69
+safari5.0.3 1
+msie6.0 357
+msie4.01 1
+safari5.0 28
+lynx 3
+opera9.63 15
+firefox1.5.0.1 5
+safari5.0.2 174
+msie8.0 970
+opera7.51 4
+opera7.60 1
+msie7.0 339
+chrome9.0.597.84 1
+firefox0.9.3 3
+firefox3.0 1
+firefox7.0.1 708
+opera9.25 9
+firefox3.6.23 350
+firefox1.0.5 1
+mozilla 122
+chrome16.0.888.0 39
+netscape5.0 1
+netscape4.0 2
+firefox3.6.3 36
+firefox1.0.6 2
+chrome11.0.696.60 2
+safari 4
+chrome4.0.206.1 1
+firefox4.0.1 260
+microsoft\-webdav\-miniredir 7
+safari2.0 1
+granparadiso 2
+android 155
+firefox1.5.0.3 1
+safari0.8 3
+chrome16.0.884.0 75
+firefox2.0.0.12 4
+opera9.80 176
+iphone 1
+chrome14.0.835.163 23
+firefox6.0.2 327
+msie2.0 1
+msie5.0 1
+netscape4.8 1
+msie9.0 114
+firefox1.5 1
+Unknown 165
+chrome14.0.835.202 323
+safari5.0.5 19
+firefox1.4 3
+chrome14.0.835.186 97
+firefox3.0.4 1
+safari3.1.2 16
+safari0.9 2
+firefox3.6.16 37
+msie5.5 6
+netscape4.79 1
+firefox1.0.7 4
+safari0.8.1 5
+opera9.10 1
+firefox5.0.1 26
+chrome14.0.814.0 35
+safari5.1 752
+firefox3.6.12 1
+chrome14.0.835.187 233
+firefox3.0.19 16
+firefox3.5 1
+safari1.0 4
+opera7.50 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+Ilium_Software_NewsBreak_http://www.iliumsoft.com 20111014072830
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20111010051742
+WordPress/3.2.1;_http://www.napierarchery.org.uk 20111015035104
+Lynx/2.8.5rel.1_libwww-FM/2.14_SSL-MM/1.4.1_OpenSSL/0.9.8e-fips-rhel5 20111007230101
+Python-urllib/2.7 20111009065132
+urlresolver 20111004150309
+nutch-1.3/Nutch-1.3 20111013105142
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots) 20111001080657
+Mozilla/4.0 20111006161231
+YahooCacheSystem 20111007120935
+Mozilla/5.0 20111008151137
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20111005205022
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20111014171800
+Mozilla/4.0_(compatible;) 20111012192953
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=16713175292228938239) 20111015104219
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+Ilium_Software_NewsBreak_http://www.iliumsoft.com 20111014072830
+WordPress/3.2.1;_http://www.napierarchery.org.uk 20111015035104
+Python-urllib/2.7 20111009065132
+urlresolver 20111004150309
+nutch-1.3/Nutch-1.3 20111013105142
+YahooCacheSystem 20111007120935
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20111005205022
+Java/1.6.0_18 20111011172359
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20111014171800
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=16713175292228938239) 20111015104219
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 691 967
+From1 0 0
+From2 61 68
+From3 55 55
+From4 1093 4993
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 57 64
+live 1 1
+bing 1 1
+yandex 1 1
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://www.napierstudents.com/sports/archery.php 26 26
+http://www.ubound.info/Top/Reference/Education/Colleges_and_Universities/Europe/United_Kingdom/Scotland/Edinburgh_Napier_University 10 10
+http://www.facebook.com/l.php 8 8
+http://www.scottisharchery.org.uk/view_club.php 3 3
+http://sthelensmc.org.uk 1 1
+http://www.uksaa.com/clubs/napier.shtml 1 1
+http://mygazeta.ru 1 1
+http://cruisedownload.etlc08.org/114/important-sports-union-napier-university-archery-club/ 1 1
+http://archery.saints-sport.com/links 1 1
+http://www.archerygb.org/ArcheryGB/index.cfm/club-finder/ 1 1
+http://archery.eusu.ed.ac.uk/content/index.php/links 1 1
+http://www.scottisharchery.org.uk/linksclubs.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 23
+napier+archery 23
+napier+archery+club 5
+register+napier+sports+card 3
+napier+university+archery+club 2
+napier+univesity+archery+club 2
+archery+club+napier 2
+edinburgh+napier+archery+club 2
+archery+napier 2
+montpeliers.co.uk%2fnapier 2
+www.montpeliers.co.uk%2fnapier 1
+napier+blues+archery 1
+napierarchery.org.uk 1
+edinburgh+napier+university+archerchy 1
+napier+archers+society+inc 1
+dundee+recurve 1
+napier+university 1
+napieruniversty 1
+archery+at+napier 1
+irina+pasin 1
+www.montpeliers.co.uk/napier 1
+napierarchery 1
+www.montpeliers.co.uk+napier 1
+www.+montpeliers.co.uk%2fnapier 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 27
+napier 47
+archery 40
+club 13
+university 4
+edinburgh 3
+sports 3
+register 3
+card 3
+montpeliers.co.uk%2fnapier 3
+univesity 2
+www.montpeliers.co.uk%2fnapier 1
+dundee 1
+inc 1
+pasin 1
+napierarchery.org.uk 1
+www. 1
+blues 1
+at 1
+recurve 1
+archers 1
+napieruniversty 1
+archerchy 1
+www.montpeliers.co.uk/napier 1
+www.montpeliers.co.uk 1
+society 1
+napierarchery 1
+irina 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 26 0
+206 1 27875
+404 863 12418816
+301 364 5304
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 461
+/gallery/153.jpg 1 -
+/documents/Membership%20Form.doc 4 -
+/gallery/thumbs/103.jpg 1 -
+/gallery/thumbs/113.jpg 1 -
+/gallery/thumbs/82.jpg 1 -
+/gallery/thumbs/163.jpg 1 -
+/gallery/thumbs/59.jpg 1 -
+/gallery/101.jpg 1 -
+/gallery/thumbs/48.jpg 1 -
+/comments/feed 17 -
+/chicken.php 1 -
+/images/NSA_w150_2.gif 1 -
+/gallery/thumbs/31.jpg 1 -
+/166/archives 3 -
+/results/2009_01_30_Friendly.xls 1 -
+/gallery/thumbs/14.jpg 1 -
+/_results/2009_02_28_BUTC.pdf%20target= 1 -
+/results.php 6 -
+/gallery/thumbs/110.jpg 1 -
+/gallery/thumbs/149.jpg 1 -
+/gallery/158.jpg 1 -
+/results/2007_03_24_SUS_IC.xls 3 -
+/movies/jerome_chair.wmv 1 -
+/gallery/thumbs/145.jpg 1 -
+/gallery/thumbs/97.jpg 1 -
+/results/2010_02_06_SUS_NC.xls 2 -
+/gallery/147.jpg 1 -
+/results/2008_02_09_SUS_LM.xls 4 -
+/gallery/136.jpg 1 -
+/gallery/20.jpg 1 -
+/results/2008_02_16_SUS_LM.xls 4 -
+/gallery/97.jpg 1 -
+/results/2008_02_22_Friendly.xls 4 -
+/gallery/thumbs/66.jpg 1 -
+/gallery/22.jpg 1 -
+/gallery/103.jpg 1 -
+/gallery/thumbs/2.jpg 2 -
+/results/2008_10_31_Friendly.xls 2 -
+/images/menulogo_20.jpg 2 -
+/images/goldbars.jpg 1 -
+/members06.php 1 -
+/images/globe.jpg 1 -
+/results/2005_06_18_BUSA_OC.xls 3 -
+/gallery/129.jpg 1 -
+/gallery/121.jpg 1 -
+/joinus.php 18 -
+/gallery/165.jpg 1 -
+/gallery/134.jpg 1 -
+/links.php 7 -
+/gallery/114.jpg 1 -
+/results/2010_10_29_practice.html 2 http://www.napierarchery.org.uk/
+/images/jerome.jpg 1 -
+/gallery/thumbs/159.jpg 1 -
+/gallery/30.jpg 1 -
+/gallery/thumbs/4.jpg 2 -
+/gallery/91.jpg 1 -
+/gallery/100.jpg 1 -
+/gallery/60.jpg 1 -
+/gallery/135.jpg 1 -
+/gallery/thumbs/176.jpg 1 -
+/gallery/49.jpg 1 -
+/gallery/thumbs/53.jpg 1 -
+/gallery/7.jpg 1 -
+/gallery/thumbs/156.jpg 1 -
+/gallery/110.jpg 1 -
+/gallery/36.jpg 1 -
+/gallery/thumbs/60.jpg 1 -
+/gallery/thumbs/30.jpg 1 -
+/gallery/thumbs/150.jpg 1 -
+/gallery/thumbs/167.jpg 1 -
+/gallery/152.jpg 1 -
+/gallery/thumbs/173.jpg 1 -
+/results/2008_12_06_SUS_NC.xls 1 -
+/_results/ 4 -
+/gallery/thumbs/26.jpg 1 -
+/gallery/61.jpg 1 -
+/gallery/85.jpg 1 -
+/gallery/111.jpg 2 -
+/gallery/27.jpg 1 -
+/gallery/124.jpg 1 -
+/gallery/9.jpg 1 -
+/gallery/177.jpg 1 -
+/gallery/thumbs/134.jpg 2 -
+/gallery/thumbs/158.jpg 1 -
+/gallery/thumbs/170.jpg 2 -
+/gallery/151.jpg 1 -
+/gallery/82.jpg 1 -
+/gallery/thumbs/88.jpg 1 -
+/gallery/thumbs/89.jpg 1 -
+/gallery/6.jpg 1 -
+/gallery/69.jpg 1 -
+/gallery/thumbs/180.jpg 1 -
+/calendars%20ForceRecrawl:%200 1 -
+/gallery/116.jpg 1 -
+/gallery/31.jpg 1 -
+/gallery/90.jpg 1 -
+/gallery/thumbs/50.jpg 1 -
+/gallery/thumbs/27.jpg 1 -
+/gallery/115.jpg 1 -
+/results/2010_05_01_SUS_OC.xls 2 -
+/gallery/thumbs/28.jpg 1 -
+/gallery/112.jpg 1 -
+/gallery/thumbs/51.jpg 1 -
+/gallery/145.jpg 1 -
+/gallery/184.jpg 2 -
+/gallery/143.jpg 1 -
+/gallery/thumbs/16.jpg 1 -
+/gallery/thumbs/9.jpg 1 -
+/gallery/thumbs/172.jpg 1 -
+/sponsors 4 -
+/gallery/thumbs/25.jpg 1 -
+/gallery/thumbs/135.jpg 1 -
+/records.php 10 -
+/results/2008_03_01_BUSA_IC.pdf 5 -
+/gallery/8.jpg 1 -
+/gallery/thumbs/139.jpg 2 -
+/gallery/81.jpg 1 -
+/gallery/44.jpg 1 -
+/gallery/thumbs/136.jpg 1 -
+/results/2006_03_11_BUTC.pdf 1 -
+/gallery/thumbs/169.jpg 1 -
+/gallery/24.jpg 1 -
+/gallery/thumbs/133.jpg 1 -
+/gallery/32.jpg 1 -
+/gallery/thumbs/157.jpg 1 -
+/gallery/2.jpg 2 -
+/gallery/95.jpg 1 -
+/gallery/thumbs/116.jpg 1 -
+/images/clock.jpg 1 -
+/gallery/127.jpg 2 -
+/gallery/174.jpg 1 -
+/gallery/182.jpg 2 -
+/results/2009_05_02_SUS_OC.xls 2 -
+/gallery/thumbs/154.jpg 1 -
+/results/2008_02_23_SUS_H2H.xls 3 -
+/results/2009_02_28_BUTC.pdf%20target= 2 -
+/143/have-a-go-at-the-freshers-fayre 3 -
+/gallery/thumbs/13.jpg 1 -
+/gallery/thumbs/54.jpg 1 -
+/gallery/73.jpg 1 -
+/gallery/159.jpg 1 -
+/gallery/thumbs/68.jpg 2 -
+/gallery/79.jpg 1 -
+/gallery/185.jpg 1 -
+/results/2010_10_29_practice.php 2 -
+/gallery/161.jpg 1 -
+/gallery/56.jpg 1 -
+/gallery/thumbs/93.jpg 1 -
+/gallery/thumbs/33.jpg 1 -
+/results/2007_05_05_SUS_OC.xls 3 -
+/gallery/139.jpg 1 -
+/gallery/173.jpg 2 -
+/gallery/140.jpg 1 -
+/gallery/54.jpg 1 -
+/gallery/138.jpg 1 -
+/gallery/117.jpg 2 -
+/gallery/thumbs/87.jpg 1 -
+/gallery/thumbs/168.jpg 1 -
+/gallery/180.jpg 2 -
+/gallery/51.jpg 1 -
+/movies/craig_speed.wmv 1 -
+/gallery/87.jpg 1 -
+/gallery/157.jpg 1 -
+/gallery/62.jpg 1 -
+/gallery/126.jpg 1 -
+/gallery/thumbs/104.jpg 1 -
+/gallery/thumbs/19.jpg 1 -
+/documents/Napier%20Scoresheet.xls 3 -
+/gallery/thumbs/137.jpg 1 -
+/gallery/25.jpg 1 -
+/gallery/thumbs/121.jpg 1 -
+/gallery/3.jpg 2 -
+/gallery/thumbs/183.jpg 1 -
+/gallery/thumbs/91.jpg 1 -
+/wp-admi 1 -
+/gallery/102.jpg 1 -
+/gallery/thumbs/6.jpg 1 -
+/gallery/93.jpg 1 -
+/gallery/thumbs/95.jpg 1 -
+/gallery/130.jpg 1 -
+/mobile 2 -
+/gallery/thumbs/117.jpg 1 -
+/gallery/76.jpg 1 -
+/results/2006_03_04_BUSA_IC.pdf 8 -
+/results/2008_06_21_BUSA_OC.pdf 1 -
+/results/2006_06_17_BUSA_OC_trad.pdf 7 -
+/gallery/thumbs/62.jpg 1 -
+/gallery/109.jpg 1 -
+/results/2009_03_14_SUS_LM.xls 2 -
+/results/2005_12_03_SUS_NC.xls 3 -
+/gallery/181.jpg 1 -
+/gallery/146.jpg 1 -
+/gallery/thumbs/57.jpg 1 -
+/gallery/86.jpg 1 -
+/gallery/10.jpg 1 -
+/gallery/thumbs/165.jpg 1 -
+/gallery/thumbs/61.jpg 1 -
+/gallery/thumbs/130.jpg 1 -
+/documents/Constitution_2009_04_07.pdf 2 -
+/gallery/74.jpg 1 -
+/usefuldocs.php 5 -
+/gallery/18.jpg 1 -
+/gallery/thumbs/1.jpg 1 -
+/gallery/28.jpg 1 -
+/gallery/55.jpg 1 -
+/results/2008_03_08_BUTC.pdf 4 -
+/gallery/thumbs/23.jpg 1 -
+/gallery/113.jpg 1 -
+/images/craig_movie.jpg 1 -
+/gallery/thumbs/129.jpg 2 -
+/gallery/thumbs/99.jpg 1 -
+/gallery/thumbs/106.jpg 1 -
+/gallery/66.jpg 1 -
+/gallery/thumbs/142.jpg 1 -
+/gallery/thumbs/166.jpg 1 -
+/gallery/19.jpg 1 -
+/gallery/thumbs/132.jpg 1 -
+/gallery/thumbs/182.jpg 2 -
+/gallery/thumbs/101.jpg 1 -
+/gallery/156.jpg 2 -
+/gallery/71.jpg 1 -
+/gallery/thumbs/49.jpg 1 -
+/results/2005_04_16_SUSF_LM.xls 3 -
+/gallery/thumbs/21.jpg 1 -
+/gallery/96.jpg 2 -
+/gallery/47.jpg 1 -
+/gallery/thumbs/102.jpg 2 -
+/gallery/thumbs/151.jpg 1 -
+/gallery/166.jpg 1 -
+/gallery/99.jpg 1 -
+/gallery/43.jpg 1 -
+/results/2006_11_18_SUS_LM.xls 3 -
+/gallery/23.jpg 1 -
+/results/2005_04_25_practice.php 2 -
+/results/2007_06_16_BUSA_OC.pdf 3 -
+/images/topbannerleft.gif 1 -
+/gallery/thumbs/96.jpg 1 -
+/ 4 -
+/gallery/141.jpg 1 -
+/results/2009_02_15_SUS_LM.xls 1 -
+/gallery/50.jpg 1 -
+/gallery/thumbs/71.jpg 1 -
+/gallery/179.jpg 3 -
+/gallery/52.jpg 1 -
+/gallery/thumbs/44.jpg 1 -
+/gallery/thumbs/72.jpg 1 -
+/documents/reference.pdf 4 -
+/viewgallery.php 47 -
+/gallery/thumbs/11.jpg 1 -
+/movies/jerome_and_delphine.wmv 1 -
+/movies.php 7 -
+/results/2009_02_14_SUS_LM.xls 3 -
+/gallery/thumbs/105.jpg 1 -
+/gallery/176.jpg 1 -
+/gallery/thumbs/41.jpg 1 -
+/gallery/175.jpg 1 -
+/membersselect.php 6 -
+/gallery/thumbs/122.jpg 2 -
+/gallery/125.jpg 1 -
+/results/2010_02_13_BUTC.pdf 1 -
+/gallery/thumbs/70.jpg 1 -
+/gallery/88.jpg 1 -
+/gallery/144.jpg 1 -
+/gallery/thumbs/63.jpg 1 -
+/gallery/11.jpg 1 -
+/gallery/thumbs/160.jpg 1 -
+/results/2007_12_01_SUS_NC.xls 1 -
+/gallery/thumbs/118.jpg 2 -
+/gallery/183.jpg 1 -
+/gallery/thumbs/45.jpg 1 -
+/gallery/thumbs/128.jpg 1 -
+/competitions.php 8 -
+/gallery/68.jpg 1 -
+/gallery/thumbs/73.jpg 1 -
+/gallery/84.jpg 1 -
+/gallery/33.jpg 1 -
+/gallery/155.jpg 2 -
+/results/2010_01_23_friendly.xls 2 -
+/gallery/thumbs/162.jpg 1 -
+/results/2007_03_17_BUSA_IC_busa.pdf 2 -
+/gallery/thumbs/39.jpg 1 -
+/gallery/163.jpg 1 -
+/gallery/170.jpg 1 -
+/gallery/133.jpg 1 -
+/results/2006_02_11_SUS_LM.xls 3 -
+/gallery/thumbs/8.jpg 1 -
+/gallery/thumbs/80.jpg 1 -
+/gallery/131.jpg 1 -
+/results/2009_03_21_SUS_IC.xls 3 -
+/diary.php 2 -
+/gallery/thumbs/109.jpg 1 -
+/gallery/thumbs/43.jpg 1 -
+/gallery/thumbs/69.jpg 2 -
+/gallery/thumbs/10.jpg 1 -
+/results/2009_10_30_Friendly.xls 2 -
+/gallery/thumbs/179.jpg 1 -
+/wp-content/themes/suffusion/scripts/+s.src+ 3 http://www.napierarchery.org.uk/wp-content/themes/suffusion/scripts/+s.src+
+/gallery/thumbs/125.jpg 1 -
+/gallery/108.jpg 1 -
+/gallery/77.jpg 1 -
+/sponsors.php 18 -
+/gallery/thumbs/108.jpg 1 -
+/gallery/thumbs/153.jpg 1 -
+/images/bfdslbanner.gif 1 -
+/gallery/thumbs/143.jpg 1 -
+/documents/2009_SUS_OC_entry_form.doc 2 -
+/movies/craig_normal.wmv 1 -
+/results/2010_02_13_SUS_LM.xls 2 -
+/gallery/154.jpg 1 -
+/gallery/45.jpg 1 -
+/gallery/thumbs/127.jpg 1 -
+/documents/novice_competition_guide.pdf 2 -
+/httplass=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-40%22%3E%3Ca%20href=%22http:/www.napierarchery.org.uk/join-us%22%3EJoin%20Us%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-18%22%20class=%22menu-item%20menu-item-type-post_type 1 http://www.napierarchery.org.uk/
+/gallery/thumbs/46.jpg 1 -
+/gallery/thumbs/111.jpg 2 -
+/gallery/26.jpg 1 -
+/results/2005_04_25_practice.html 1 http://www.napierarchery.org.uk/
+/documents/NUAC_Constitution_2011-04-19.pdf 1 -
+/results/2006_05_06_SUS_OC.xls 4 -
+/results/2007_03_03_BUTC.pdf 2 -
+/gallery/thumbs/20.jpg 1 -
+/gallery/4.jpg 2 -
+/results/2010_03_13_BUCS_IC.xls 3 -
+/gallery/98.jpg 1 -
+/gallery/171.jpg 1 -
+/gallery/148.jpg 6 -
+/gallery/thumbs/64.jpg 1 -
+/busa.php 3 -
+/gallery/12.jpg 1 -
+/gallery/thumbs/18.jpg 1 -
+/gallery/thumbs/74.jpg 2 -
+/gallery/thumbs/144.jpg 2 -
+/results/2005_03_12_SUSF_IC.xls 3 -
+/archives.php 12 -
+/gallery/thumbs/155.jpg 1 -
+/gallery/thumbs/177.jpg 1 -
+/gallery/thumbs/84.jpg 1 -
+/results/2006_12_02_SUS_NC.xls 10 -
+/gallery/thumbs/55.jpg 1 -
+/gallery/53.jpg 1 -
+/results/2007_11_24_SUS_LM.xls 2 -
+/results/2006_03_25_SUS_IC.xls 2 -
+/sitemap.xml.gz 17 -
+/results/2007_10_26_Friendly.xls 5 -
+/gallery/132.jpg 1 -
+/gallery/17.jpg 1 -
+/gallery/164.jpg 2 -
+/gallery/169.jpg 1 -
+/gallery/thumbs/171.jpg 1 -
+/members04.php 1 -
+/gallery/thumbs/22.jpg 1 -
+/gallery/thumbs/152.jpg 1 -
+/gallery/thumbs/98.jpg 1 -
+/results/2009_11_22_SUS_LM.xls 1 -
+/sitemap.xml 28 -
+/images/thumb2.jpg 1 -
+/documents-2 2 -
+/gallery/thumbs/81.jpg 1 -
+/results/2008_03_15_SUS_IC.xls 5 -
+/gallery/104.jpg 1 -
+/gallery/thumbs/164.jpg 1 -
+/gallery/58.jpg 1 -
+/gallery/167.jpg 1 -
+/gallery/72.jpg 1 -
+/results/2008_05_10_SUS_OC.xls 2 -
+/gallery/thumbs/29.jpg 1 -
+/gallery/thumbs/86.jpg 1 -
+/gallery/thumbs/119.jpg 1 -
+/gallery/168.jpg 2 -
+/gallery/94.jpg 1 -
+/gallery/29.jpg 1 -
+/results/2005_02_26_BUSA_IC.xls 6 -
+/gallery/thumbs/112.jpg 1 -
+/documents/2010_SUS_OC_entry_form.doc 3 file://C:\\Documents%20and%20Settings\\taotao\\\xd7\xc0\xc3\xe6\\\xb8\xb4\xbc\xfe%20(4)%201.html
+/gallery/thumbs/126.jpg 1 -
+/gallery/14.jpg 1 -
+/results/2009_02_21_SUS_H2H.xls 2 -
+/gallery/thumbs/140.jpg 1 -
+/gallery/thumbs/47.jpg 1 -
+/images/Burstfire_w150.gif 1 -
+/gallery/70.jpg 1 -
+/gallery/48.jpg 1 -
+/gallery/thumbs/77.jpg 1 -
+/gallery/150.jpg 1 -
+/gallery.php 8 -
+/gallery/thumbs/181.jpg 1 -
+/_results/GriftsmouthResults.xls 1 -
+/results/2006_12_09_SUS_LM.xls 2 -
+/contact.php 4 -
+/gallery/thumbs/141.jpg 2 -
+/gallery/thumbs/124.jpg 1 -
+/results/2007_03_17_BUSA_IC_trad.pdf 8 -
+/gallery/thumbs/174.jpg 2 -
+/gallery/thumbs/56.jpg 1 -
+/gallery/178.jpg 1 -
+/gallery/21.jpg 1 -
+/gallery/thumbs/58.jpg 1 -
+/gallery/thumbs/52.jpg 1 -
+/gallery/thumbs/185.jpg 1 -
+/gallery/thumbs/42.jpg 1 -
+/gallery/thumbs/184.jpg 1 -
+/gallery/142.jpg 2 -
+/gallery/80.jpg 1 -
+/results/2009_03_07_BUCS_IC.pdf 3 -
+/gallery/123.jpg 1 -
+/gallery/128.jpg 1 -
+/gallery/thumbs/115.jpg 2 -
+/gallery/thumbs/85.jpg 1 -
+/gallery/89.jpg 1 -
+/gallery/41.jpg 1 -
+/gallery/78.jpg 1 -
+/gallery/thumbs/100.jpg 1 -
+/gallery/160.jpg 1 -
+/gallery/thumbs/32.jpg 1 -
+/gallery/thumbs/90.jpg 1 -
+/results/2007_01_27_SUS_LM.xls 2 -
+/34-2 4 -
+/gallery/1.jpg 2 -
+/gallery/thumbs/36.jpg 1 -
+/gallery/83.jpg 1 -
+/gallery/105.jpg 1 -
+/_results/SUSOUTDOORS2011RESULTS.pdf 1 -
+/gallery/thumbs/78.jpg 1 -
+/gallery/thumbs/138.jpg 1 -
+/muieblackcat 2 -
+/gallery/119.jpg 1 -
+/gallery/15.jpg 1 -
+/gallery/16.jpg 1 -
+/gallery/42.jpg 2 -
+/gallery/thumbs/148.jpg 1 -
+/gallery/thumbs/83.jpg 2 -
+/results/2006_02_25_SUS_LM.xls 2 -
+/members05.php 1 -
+/gallery/149.jpg 2 -
+/gallery/118.jpg 1 -
+/gallery/thumbs/76.jpg 1 -
+/gallery/thumbs/3.jpg 2 -
+/gallery/172.jpg 1 -
+/gallery/thumbs/15.jpg 1 -
+/gallery/122.jpg 1 -
+/gallery/46.jpg 1 -
+/gallery/thumbs/123.jpg 1 -
+/results/2010_02_20_SUS_H2H.xls 1 -
+/gallery/thumbs/79.jpg 2 -
+/gallery/thumbs/120.jpg 1 -
+/gallery/thumbs/146.jpg 1 -
+/gallery/thumbs/94.jpg 1 -
+/gallery/thumbs/7.jpg 1 -
+/results/2006_06_17_BUSA_OC_busa.pdf 4 -
+/gallery/162.jpg 1 -
+/gallery/137.jpg 1 -
+/gallery/39.jpg 1 -
+/gallery/thumbs/24.jpg 1 -
+/gallery/120.jpg 1 -
+/gallery/59.jpg 1 -
+/gallery/106.jpg 1 -
+/gallery/thumbs/114.jpg 1 -
+/gallery/thumbs/178.jpg 3 -
+/gallery/13.jpg 1 -
+/gallery/thumbs/17.jpg 1 -
+/gallery/64.jpg 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 257
+80.195.255.230 110 320 4955284 20111014011439
+94.175.91.75 78 120 998615 20111015130133 20111015130133 /feed
+84.12.245.90 74 339 3888112 20111014121358
+146.176.178.154 69 100 1632683 20111013143710
+199.19.249.196 51 52 674851 20111014072830
+31.205.26.15 46 184 1735784 20111014191707
+72.14.199.212 36 36 236509 20111010192455
+94.2.4.137 36 97 3557199 20111015104000
+217.171.129.73 36 52 766413 20111012214225
+146.176.120.13 35 164 1555865 20111005144430
+92.238.136.196 32 166 2092682 20111011081648
+146.176.178.99 32 88 1198570 20111006150358
+82.136.27.2 31 31 0 20111015035104
+75.126.46.234 31 31 558213 20111015133257 20111015133257 /268/week-4-and-on
+31.205.33.250 30 64 995685 20111008160151
+94.172.127.216 30 62 2166514 20111011210526
+146.176.179.36 29 78 968358 20111011172107
+217.171.129.68 27 42 589850 20111012031053
+188.223.3.219 26 185 2995217 20111015125840 20111015125839 /
+72.14.199.107 25 25 163107 20111005121814
+91.212.226.143 23 38 774883 20111013031537
+146.176.181.27 23 45 748943 20111013110634
+109.246.54.46 21 111 931330 20111011225106
+72.14.199.116 20 20 145614 20111013214341
+80.40.134.103 20 54 1586651 20111013145323
+88.104.213.45 0 1 39936 
+146.176.178.47 2 2 59730 20111003143756
+93.114.47.254 1 1 33457 20111004150308
+82.41.202.62 8 37 673065 20111002162151
+188.138.83.141 1 1 33557 20111003063633
+95.172.236.57 0 1 76343 
+93.80.33.181 0 1 91363 
+188.220.35.0 6 21 386655 20111004141112
+66.249.85.129 2 15 286541 20111005000619
+74.125.78.84 1 1 34025 20111007144052
+91.224.247.11 3 3 101607 20111006090436
+208.80.194.59 1 1 33457 20111005101512
+98.158.20.229 1 1 0 20111001134944
+78.56.173.230 2 14 246674 20111008151235
+124.115.1.8 2 9 263908 20111002233054
+95.175.139.196 4 19 342055 20111009222214
+31.111.90.155 2 15 286541 20111005130428
+208.80.194.60 1 1 33422 20111002072825
+98.158.20.227 11 11 53123 20111013223947
+109.246.54.98 8 63 762070 20111012100452
+209.85.228.86 0 1 16294 
+92.236.110.92 16 78 803032 20111014122401
+94.142.131.233 1 1 18619 20111010140356
+146.176.239.90 2 16 296345 20111007142617
+146.176.61.115 17 55 683294 20111013165639
+94.174.130.159 10 68 765192 20111010012009
+77.97.242.70 4 19 343754 20111012174552
+86.111.221.246 1 1 34014 20111012004321
+188.221.66.153 2 15 290613 20111001112937
+69.171.224.249 0 1 21713 
+101.226.33.222 2 2 29100 20111006161231
+94.175.81.167 6 21 384621 20111006154510
+86.148.63.126 8 23 430805 20111001221016
+138.9.70.250 2 15 286227 20111014164001
+195.212.29.78 0 4 0 
+188.221.75.163 12 58 304802 20111014163303
+82.41.11.228 6 21 392102 20111007173445
+81.179.6.163 5 26 244121 20111007161745
+194.44.171.194 15 31 739241 20111011214608
+109.246.196.134 4 37 587093 20111013174235
+217.123.240.93 2 16 296345 20111007132935
+173.244.209.132 2 2 57937 20111002155337
+207.46.199.26 2 8 213020 20111011083716
+146.176.170.78 2 15 290648 20111004144703
+66.220.149.247 0 1 21713 
+146.176.182.52 3 19 310933 20111001134127
+69.28.58.21 1 1 34014 20111013105142
+92.235.216.73 2 2 60389 20111002121108
+90.193.161.93 2 15 259674 20111008174923
+93.97.140.179 2 15 286203 20111012090650
+66.116.153.79 2 15 286506 20111003145611
+77.73.2.160 4 4 134964 20111009001848
+209.18.124.32 0 1 250749 
+88.104.226.95 7 41 430408 20111011222337
+62.24.181.134 3 5 69053 20111005161947
+74.125.76.87 0 1 370 
+118.92.103.133 2 9 268746 20111001073151
+77.44.74.168 11 57 315892 20111014114559
+86.179.27.65 12 45 462413 20111002214447
+31.220.229.119 5 22 409007 20111009153351
+109.246.196.150 4 36 120958 20111015025337
+94.14.164.232 4 19 340610 20111002050836
+98.158.20.233 1 1 0 20111005220028
+77.99.222.86 4 25 340378 20111005201044
+98.158.20.235 6 6 0 20111014024154
+146.176.60.25 2 15 290320 20111011111937
+146.176.178.77 6 17 166670 20111010120409
+129.215.5.255 8 23 444951 20111006195653
+80.40.134.104 10 18 327094 20111013141131
+146.176.60.148 2 15 290310 20111012133206
+178.98.164.31 6 56 783937 20111007131649
+1.25.35.163 2 15 290613 20111001133702
+146.176.158.9 4 19 344485 20111005153155
+74.125.78.80 0 1 91363 
+109.246.52.105 2 16 296638 20111002105849
+207.46.12.23 2 10 238813 20111008112830
+66.116.153.122 1 1 34025 20111010130720
+86.178.198.134 11 46 478640 20111006082217
+211.99.227.130 2 9 256667 20111001155656
+146.176.178.59 4 14 181140 20111013125552
+82.41.0.95 2 15 260520 20111003163730
+86.179.77.245 10 44 260266 20111002001026
+208.80.194.36 2 2 68050 20111009095102
+74.125.42.84 1 1 0 20111004150309
+31.220.229.174 6 21 385602 20111006194753
+109.154.206.80 12 51 551409 20111006133044
+146.176.171.14 4 19 344524 20111014125535
+77.79.8.192 1 1 17145 20111013195339
+137.222.183.170 2 2 33274 20111011172359
+66.220.158.251 1 1 16942 20111005205022
+146.176.171.189 2 15 290648 20111005132612
+81.96.79.64 0 1 246870 
+178.162.248.85 2 2 17159 20111003193539
+109.246.196.196 2 15 259675 20111012193045
+125.64.33.80 4 18 512762 20111014024205
+82.45.61.198 3 16 303076 20111001235104
+31.205.26.42 12 56 1011273 20111014003725
+150.70.75.35 0 2 79872 
+24.63.98.191 0 1 39936 
+77.100.216.47 8 43 461202 20111009223454
+89.28.14.95 2 2 68344 20111015044305
+150.70.172.103 0 1 37888 
+92.25.198.174 14 30 578125 20111005162026
+85.94.196.130 1 1 24868 20111005224259
+178.98.226.94 1 2 117668 20111010143321
+146.176.164.38 16 75 1098628 20111012171223
+70.166.22.210 10 10 337862 20111012071112
+91.207.8.46 1 1 33557 20111004085157
+109.202.233.36 1 9 209066 20111011150144
+94.14.190.184 4 18 330478 20111004090157
+109.246.54.182 2 16 293404 20111005221315
+98.158.20.236 6 6 52240 20111013183429
+88.214.193.166 8 8 268595 20111013080719
+146.176.61.138 10 50 508392 20111011124858
+109.246.55.175 7 33 195818 20111002120832
+217.171.129.70 8 8 54589 20111014072830
+209.85.226.86 0 1 762 
+75.126.101.158 4 4 72096 20111011010325
+94.174.196.213 10 37 437583 20111011185437
+209.85.228.81 0 2 72420 
+74.86.57.228 2 14 280188 20111006050114
+109.246.54.114 6 35 624571 20111007171831
+72.14.199.215 4 4 18203 20111015104219
+31.205.33.209 8 36 668857 20111010003602
+146.176.171.112 6 21 388579 20111008152231
+208.80.194.37 1 1 34160 20111008004546
+94.174.197.102 4 18 310128 20111001115047
+38.99.98.132 1 2 43554 20111004042646
+209.85.228.84 0 1 1244 
+208.80.194.30 2 2 68039 20111013081220
+31.53.17.180 17 84 929161 20111008222825
+87.114.238.228 1 7 116910 20111002181829
+69.171.228.249 0 1 21713 
+109.246.54.151 7 42 670521 20111007142313
+95.221.66.118 1 2 89602 20111009195648
+86.184.83.122 4 17 324453 20111004085015
+82.132.138.138 3 19 520417 20111011222611
+77.97.241.194 8 35 588531 20111005204821
+72.14.199.180 8 8 36406 20111014222931
+146.176.170.142 4 19 346729 20111005103941
+94.192.93.145 10 26 473025 20111009154807
+66.220.149.248 0 1 21713 
+194.29.70.80 3 18 315841 20111005115057
+208.80.194.27 1 1 34025 20111009083754
+146.176.164.17 9 39 2116656 20111011130740
+69.147.242.155 1 1 33557 20111004001506
+109.246.53.126 2 16 296345 20111010214004
+209.85.226.89 1 2 26643 20111007144054
+109.246.55.194 5 26 361720 20111002140225
+209.85.226.83 0 1 21713 
+208.80.194.34 2 2 68050 20111010170030
+109.246.196.15 5 25 244118 20111014163328
+146.176.140.160 8 23 433120 20111010094536
+146.176.154.5 4 19 344485 20111007130903
+38.229.70.44 3 3 101472 20111007230101
+98.158.20.231 9 9 859 20111015020702
+72.14.199.218 18 18 72457 20111006055908
+79.197.69.62 0 1 356222 
+208.80.194.61 2 2 68174 20111012005928
+109.206.182.36 1 1 34014 20111011220518
+209.85.228.89 0 1 2155 
+109.246.196.106 2 16 296359 20111014165056
+64.38.3.50 1 1 34025 20111008170207
+81.176.230.39 1 2 55738 20111010013336
+98.158.20.228 13 13 104436 20111014024735
+50.33.215.235 2 13 236542 20111008171402
+146.176.165.181 5 26 348077 20111003144958
+98.158.20.234 19 19 103868 20111015090825
+82.41.43.81 10 39 700967 20111012083029
+95.220.149.37 0 1 3084 
+146.176.170.95 2 15 290648 20111005125434
+66.220.149.251 1 1 33457 20111004191318
+146.176.171.89 2 15 290648 20111004133855
+146.176.61.129 6 33 404815 20111011155016
+130.209.6.40 2 10 221901 20111014151150
+31.192.105.2 1 1 24650 20111001203133
+90.196.39.196 5 26 322001 20111011230034
+208.80.194.31 1 1 34172 20111014153834
+31.220.229.85 16 63 1118644 20111008021039
+209.131.38.91 1 1 34025 20111010105016
+209.85.226.88 0 2 13199 
+146.176.139.73 4 19 346729 20111004135351
+209.85.228.85 0 1 6025 
+31.220.229.35 6 23 386451 20111002162942
+46.251.237.178 2 2 67594 20111013141507
+98.158.20.237 3 3 52352 20111012142804
+86.134.32.66 0 3 909293 
+88.104.230.210 5 26 114880 20111002135700
+217.171.129.78 1 1 18193 20111004225803
+24.92.199.185 1 1 33557 20111001002112
+146.176.171.54 4 19 344476 20111011190402
+95.220.251.157 0 1 16294 
+109.246.196.72 2 16 296335 20111012195239
+130.209.6.43 2 7 82587 20111014151151
+109.246.54.180 5 26 362850 20111002174227
+69.171.228.247 0 1 21713 
+184.73.113.136 1 1 0 20111006193826
+62.173.124.59 10 48 2501551 20111003083442
+86.179.121.82 6 21 382725 20111014111949
+95.220.187.247 1 1 34025 20111009195644
+31.220.229.99 4 20 340686 20111008145234
+69.171.224.244 0 1 21713 
+146.176.170.97 6 21 404564 20111006141545
+146.176.63.40 6 44 860798 20111012185025
+146.176.179.115 6 8 173634 20111004123316
+109.156.173.130 2 3 46035 20111014135122
+81.159.201.1 4 23 103577 20111011002510
+146.176.171.113 17 34 1231841 20111004130511
+208.80.194.26 5 5 168622 20111014141620
+125.89.75.100 6 31 892242 20111015130104 20111015130104 /
+94.168.185.129 14 88 1684379 20111011181836
+80.40.134.120 3 8 166091 20111003130408
+98.139.241.243 1 1 34025 20111007120935
+38.99.96.201 6 6 125697 20111010051742
+72.14.199.229 4 4 18193 20111011072524
+208.80.194.29 2 2 67436 20111013065408
+208.80.194.35 1 1 33422 20111004020635
+62.208.75.177 4 18 337970 20111003215745
+95.221.86.160 0 1 9123 
+146.176.170.68 4 19 344485 20111011134807
+82.41.255.102 6 21 402387 20111004191317
+31.205.25.118 2 15 286541 20111004140941
+92.235.34.223 2 5 231298 20111013193108
+79.112.137.102 3 3 66352 20111009133825
+122.184.142.2 1 1 34025 20111009065132
+94.180.155.247 0 1 308 
+130.209.6.41 1 9 69887 20111014150649
+62.24.181.135 3 7 251893 20111005161853
+146.176.119.142 4 19 339397 20111005152707
+199.15.234.132 1 1 33422 20111002005836
+31.52.68.6 2 15 286227 20111014091130
+94.174.212.36 2 16 296345 20111005174655
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20111001 74 267 5968042 37
+20111002 126 518 5988865 49
+20111003 99 349 8471107 42
+20111004 130 384 6255036 50
+20111005 181 599 10207741 58
+20111006 167 453 6561499 47
+20111007 156 494 7483682 52
+20111008 74 296 4668597 39
+20111009 81 274 4360220 39
+20111010 62 167 2575130 34
+20111011 233 802 13799318 49
+20111012 135 424 6777211 37
+20111013 250 547 7568999 43
+20111014 98 377 8756347 41
+20111015 34 92 1060991 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 21
+30s-2mn 42
+2mn-5mn 16
+15mn-30mn 7
+0s-30s 528
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 70
+/ 911 26848905 297 279
+/feed 252 1199888 214 206
+/calendars 100 1691375 16 10
+/join-us 66 1247883 5 7
+/results 65 2057170 3 25
+/wp-admin/admin-ajax.php 40 9641 0 3
+/268/week-4-and-on 35 630309 18 17
+/club-records 34 636890 3 6
+/wp-cron.php 31 0 31 31
+/contact 27 448569 1 1
+/wp-admin/load-scripts.php 27 860930 0 0
+/office-holders 26 491856 2 4
+/documents 23 381781 0 2
+/competitions 22 379170 1 3
+/wp-admin/index-extra.php 21 30338 0 0
+/wp-admin/post.php 18 1134147 0 0
+/club-history 15 293378 2 2
+/258/important-sports-union 15 279455 12 1
+/author/admin 11 282878 4 1
+/wp-admin/load-styles.php 10 178480 0 0
+/wp-login.php 9 28163 0 0
+/276/seniors-training-tuesday-4th-october/feed 9 883 9 9
+/wp-admin/ 8 271894 0 0
+/262/sunday-session-indoors 7 110036 0 0
+/wp-admin/update-core.php 6 99381 0 0
+/262/sunday-session-indoors/feed 2 1658 0 0
+/wp-admin/post-new.php 2 115574 0 0
+/wp-admin/index.php 3 114321 0 0
+/join-us/feed 2 1364 0 0
+/wp-admin/users.php 3 66610 0 1
+/264/week-3-training-times/feed 2 1646 0 0
+/page/2 1 21312 0 0
+/author/pete 3 86943 0 1
+/281/egm-this-wednesday-at-merchiston/feed 5 859 5 5
+/_results/2010_10_29_practice.html 1 662 0 1
+/xmlrpc.php 4 1848 0 0
+/127/join-us-now/feed 2 1552 0 0
+/69/welcome-to-the-nuac-website/feed 2 1674 0 0
+/_results/SUS%20Indoors%202011%20Results.xlsx 2 79330 0 1
+/264/week-3-training-times 5 68786 1 1
+/documents/feed 4 2744 0 0
+/281/egm-this-wednesday-at-merchiston 1 16633 1 1
+/club-records/feed 2 1384 0 0
+/competitions/feed 2 1384 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 5 467040 0 0
+/results/feed 2 1364 0 0
+/contact/feed 4 2728 0 1
+/256/tuesday-training-weather/feed 2 1670 0 0
+/135/first-session 2 34732 0 0
+/258/important-sports-union/feed 2 1654 0 0
+/69/welcome-to-the-nuac-website 4 68743 0 0
+/226/sessions-in-week-2 2 33496 0 0
+/wp-includes/wlwmanifest.xml 2 2106 0 0
+/burstfire 2 33090 0 0
+/268/week-4-and-on/feed 1 0 1 1
+/_results/ 2 0 0 0
+/271/training-session-tomorrow-wednesday-seniors-only/feed 2 0 2 2
+/127/join-us-now 2 33910 0 0
+/267/senior-only-session-on-tonight 2 33256 0 0
+/276/seniors-training-tuesday-4th-october 3 50477 2 2
+/_results/Edin%20Nap%20Dun%20-%20postal%20completed.xlsx 3 55548 1 0
+/213/calendar-now-udated 3 49968 0 0
+/256/tuesday-training-weather 2 33896 0 0
+/wp-admin/update.php 2 7775 0 0
+/231/sports-union-cards/feed 2 1606 0 0
+/office-holders/feed 4 2784 0 2
+/club-history/feed 4 2768 0 1
+/wp-admin/edit.php 2 127480 0 0
+/wp-admin/themes.php 1 21216 0 0
+/231/sports-union-cards 2 34816 0 0
+END_SIDER

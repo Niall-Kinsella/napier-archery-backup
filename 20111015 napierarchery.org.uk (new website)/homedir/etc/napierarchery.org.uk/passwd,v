@@ -1,0 +1,53 @@
+head	1.3;
+access;
+symbols;
+locks
+	napierar:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2011.08.25.17.04.34;	author napierar;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2011.08.25.14.22.57;	author napierar;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.08.25.14.22.57;	author napierar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+contact:x:560:560::/home/virtual/napierar/mail/napierarchery.org.uk/contact:/usr/local/cpanel/bin/noshell
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

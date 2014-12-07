@@ -1,0 +1,26 @@
+<? require('/home/napierarchery/inc/inc.php'); ?>
+<? top ("Practice 29-10-2010"); ?>
+<P> Portsmouth shot under competition conditions at Meadowbank on Friday 29th 
+  October 2010. 
+<h3>All Recurves Combined</h3>
+<ol>
+  <li>Piotr Wojtczuk 502</li>
+  <li>Jules Coynel 461</li>
+  <li>Ewan Gunn 452</li>
+  <li>Nathan Garden 409</li>
+  <li>Agata Sliwa 351</li>
+  <li>Niall Kinsella 342</li>
+  <li>Stephen Hyde (N) 340</li>
+  <li>Brian Foley 282</li>
+  <li>Arthur Hemon (N) 270</li>
+  <li>Sean Johnstone (N) 240</li>
+  <li>Benjamin Bouillet (N) 235</li>
+  <li>James Greenan (N) 146</li>
+  <li>Mirjam Grimm (N) 129</li>
+  <li>Kaycee McNeil (N) 113</li>
+  <li>George Delaney (N) 104</li>
+</ol>
+<ul>
+  Jack Feeley retired
+</ul>
+<? bot(); ?>

@@ -1,0 +1,1 @@
+[25-Aug-2011 17:05:48] PHP Fatal error:  Call to undefined function add_filter() in /home/virtual/napierar/public_html/wp-includes/user.php on line 72

@@ -1,0 +1,7 @@
+AuthUserFile /home/virtual/site75/fst/var/www/.htpasswd
+AuthGroupFile /home/virtual/site75/fst/var/www/.htgroup
+AuthName "Pete"
+AuthType Basic
+<Limit GET>
+require group  Administrators
+</Limit>

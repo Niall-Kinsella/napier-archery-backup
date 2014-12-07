@@ -1,0 +1,161 @@
+/*###############################
+
+	napierarchery.org.uk
+	
+################################*/
+
+
+*
+{
+	margin:0px; 
+	padding:0px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+body
+{
+	padding:40px 0px 40px 0px; 	/*Space arount the website (marging between the outline and the browser window)*/
+	text-align:center;				/*Hack for IE - to center the website outline*/
+	background:#000000; 			/*Background for the website (around the outline of the contents)*/
+}
+
+h1 {color:#000000; margin-bottom: 1em;}
+h2 {color:#000000; margin-bottom: 1em;}
+h3 {color:#000000; margin-bottom: 0.75em;}
+h4 {color:#000000;}
+h5 {color:#000000;}
+h6 {color:#000000;}
+h7 {color:#000000;}
+p {color:#000000; margin-bottom: 1em; text-align:justify;}
+
+a:link {color:#CC0000;}
+a:active {color:#CC0000;}
+a:visited {color:#CC0000;}
+a:hover {color:#CC0000;}
+
+li
+{
+	margin:0px 30px;
+	text-align:justify;
+}
+
+ul
+{
+	margin:1em;
+}
+
+th
+{
+	font-weight:bold;
+	text-align:left;
+}
+
+table, td, th 
+{
+	border-collapse:collapse;
+	border-style:solid;
+	border-width:thin;
+	border-color:#999999;
+	padding:5px;
+	font-size:13px;
+}
+
+#outline							/*Sets the main area of the website*/
+{
+	position:relative;				/*Relative position*/
+	width:760px;					/*Fixed width of 760px. Optional flexible width in % of browser width*/
+	margin:0 auto;					/*Space around elements*/
+	padding:0;
+	border:solid 7px #CCCCCC;		/*white Border outline*/
+	background-color:#fff;			/*white main area background*/
+}
+
+#main								/*Main Section within Outline*/
+{
+	padding:0px;
+	text-align:left;
+}
+
+#header								/*Top Section within Outline*/
+{
+	position:relative;
+	height:180px;
+	width:100%;
+	margin:0px;
+	padding:0px;
+	border-collapse:separate;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-bottom-color:#CCCCCC;
+}
+
+#footer								/*Bottom Section within Outline*/
+{
+	position: relative;
+	height:0px;
+	padding:0px;
+	margin:0px;
+}
+
+#titlebar 
+{
+	position: relative;
+	width:549px;
+	height:150px;
+	padding:15px;
+	text-align:center;
+	float:right;
+	background-position:center;
+	background-image:url(images/targetblend.gif);
+	background-repeat:no-repeat;
+}
+
+#topleft 
+{
+	width:180px;
+	margin:0px;
+	height:100%;
+	padding:0px;
+	display:block;
+	float:left;
+	position:relative;
+	border-collapse:separate;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-right-color:#CCCCCC;
+	background-position:center;
+	background-image:url(images/Logo.gif);
+	background-repeat:no-repeat;
+}
+
+#left
+{
+	width:150px;
+	margin:0px;
+	padding:15px;
+	float:left;
+	text-align:left;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-right-color:#CCCCCC;
+	position:relative;
+}
+	
+#content 
+{
+	position:relative;
+	float: right;
+	width:539px;
+	margin-right:10px;
+	margin-left:0px;
+	padding:15px;
+
+	font-size:13px;
+}
+
+.titlefont 
+{
+	font-size:24px;
+	font-weight:bold;
+}
+/* Localized */

@@ -1,0 +1,24 @@
+head	1.1;
+access;
+symbols;
+locks
+	napierar:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2011.08.25.14.22.57;	author napierar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@

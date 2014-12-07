@@ -1,0 +1,31 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/napierarchery.org.uk
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/napierarchery.org.uk-bytes_log
+documentroot: /home/virtual/napierar/public_html
+group: napierar
+hascgi: 1
+homedir: /home/virtual/napierar
+ifmodulemodsuphpc: 
+  group: napierar
+ip: 82.136.27.2
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/virtual/napierar/public_html/cgi-bin
+    url: /cgi-bin/
+  - 
+    path: /home/virtual/napierar/public_html/cgi-bin/
+    url: /cgi-bin/
+serveradmin: webmaster@napierarchery.org.uk
+serveralias: www.napierarchery.org.uk
+servername: napierarchery.org.uk
+usecanonicalname: 'Off'
+user: napierar
+userdirprotect: ''
